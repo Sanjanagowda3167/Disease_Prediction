@@ -51,4 +51,4 @@ The dataset is included in the repository inside the dataset/ folder.
 https://sanjanagowda3167.github.io/Disease_Prediction/
 
 Author
-Spandana B M
+Sanjana B M
